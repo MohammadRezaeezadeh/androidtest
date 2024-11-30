@@ -31,7 +31,7 @@ class MainActivity : ComponentActivity() {
 
                     ,onClick = {}) {
 
-                    Text("salam",color =  Color.Red,)
+                    Text("salam",color =  Color.Blue,)
                 }
 
             }
