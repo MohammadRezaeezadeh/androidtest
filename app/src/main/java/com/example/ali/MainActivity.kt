@@ -26,6 +26,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier
 
                         .fillMaxHeight()
+                        .fillMaxWidth()
 
                     ,onClick = {}) {
 
